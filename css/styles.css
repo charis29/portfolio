@@ -1,0 +1,130 @@
+.navbar {
+  border-radius: 0px;
+}
+
+body {
+  font-size: 16px;
+}
+
+h1 {
+  margin: 150px 0 0 50px;
+  font-family: 'Comfortaa', cursive;
+}
+
+.parallax-window {
+  min-height: 768px;
+  background: transparent;
+  background-size: cover;
+  padding-top: 50px;
+}
+
+p {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 20px;
+  font-family: 'Comfortaa', cursive;
+}
+
+.secondPara {
+  font-size: 24px;
+  text-align: left;
+  font-family: 'Comfortaa', cursive;
+}
+
+#contact {
+  background-color: #cccccc;
+  padding: 30px;
+}
+
+form {
+  margin-top: 25px;
+  font-family: 'Comfortaa', cursive;
+}
+
+.help-block {
+  text-align: left;
+}
+
+.well {
+  opacity: 0.5;
+}
+
+.about {
+  margin-top: 175px;
+  margin-bottom: auto;
+}
+
+.btn-default {
+  float: right;
+  margin-top: 5px;
+}
+
+#down1 {
+  margin-top: 40%;
+  margin-left: 50%;
+  font-size: larger;
+  color: #333333;
+}
+
+#down2 {
+  font-size: larger;
+  color: #333333;
+  position: absolute;
+  right: 48.4%;
+  top: 90%;
+}
+
+#down3 {
+  margin-top: 5%;
+  margin-left: 50%;
+  font-size: larger;
+  color: #333333;
+}
+
+.up {
+  margin-left: 42%;
+  pointer-events: none;
+  cursor: default;
+  color: #333333;
+}
+
+#up {
+  margin-top: 5%;
+  margin-left: 10px;
+  font-size: larger;
+  color: #333333;
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+.navbar-inverse {
+  background-color: transparent;
+  border-color: transparent;
+  color: #333333;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: #333333;
+}
+
+.navbar-inverse .navbar-nav>li>a:active {
+  color: #333333;
+  text-decoration: underline;
+}
+
+.navbar-inverse .navbar-nav>li>a:focus {
+  color: #333333;
+  text-decoration: underline;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+  color: #333333;
+  text-decoration: underline;
+}
+
+.navbar-inverse .navbar-nav>li>a:visited {
+  color: #333333;
+  text-decoration: underline;
+}
+
+
